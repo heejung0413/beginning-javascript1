@@ -1,7 +1,7 @@
 # -
 
 <h3> 5장 정리 </h3>
-https://github.com/heejung0413/beginning-javascript/blob/main/05/read.md
+https://github.com/heejung0413/beginning-javascript1/blob/main/05/read.md
 </br>
 <h1> 05. 함수와 이벤트 👋 </h1>
 <h2>05-1 여러 동작을 묶은 덩어리, 함수 </h2>
@@ -129,7 +129,7 @@ ex)
  <h2> 05-5  이벤트 다루기  </h2>
 
  실습:
- https://heejung0413.github.io/beginning-javascript/05/event-handler.html
-</br> https://heejung0413.github.io/beginning-javascript/05/event.html
-</br> https://heejung0413.github.io/beginning-javascript/05/event-dom.html
+ https://heejung0413.github.io/beginning-javascript1/05/event-handler.html
+</br> https://heejung0413.github.io/beginning-javascript1/05/event.html
+</br> https://heejung0413.github.io/beginning-javascript1/05/event-dom.html
  
