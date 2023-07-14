@@ -124,4 +124,7 @@ ex)
  <h2> 05-5  이벤트 다루기  </h2>
 
  실습:
+ https://heejung0413.github.io/beginning-javascript/05/event-handler.html
+</br> https://heejung0413.github.io/beginning-javascript/05/event.html
+</br> https://heejung0413.github.io/beginning-javascript/05/event-dom.html
  
