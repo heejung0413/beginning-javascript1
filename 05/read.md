@@ -1,3 +1,4 @@
+<p align="right">Made by heejung0413</p>
 <h1> 05. 함수와 이벤트 👋 </h1>
 <h2>05-1 여러 동작을 묶은 덩어리, 함수 </h2>
 
